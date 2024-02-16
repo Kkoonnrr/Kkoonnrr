@@ -1,7 +1,7 @@
 Hi there 👋, I'm Konrad Synowiec
 
 
-I've been into Machine Learning/Deep learning since my project about market predictions. 
+I've been into Machine Learning/Deep learning since the creation of my project about market predictions. 
 Nowadays, my goal is to enhance my Computer Vision knowledge and dive deeper into CNN and Deep Learning.
 
 I'm looking for a Python backend job related to ML/DL, CV, or data analysis.
